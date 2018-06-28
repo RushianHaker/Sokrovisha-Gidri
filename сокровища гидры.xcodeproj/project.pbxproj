@@ -15,6 +15,29 @@
 		3F1D292620E4C75C00FC3D96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D292420E4C75C00FC3D96 /* LaunchScreen.storyboard */; };
 		3F1D293120E4C75C00FC3D96 /* _______________Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1D293020E4C75C00FC3D96 /* _______________Tests.swift */; };
 		3F1D293C20E4C75C00FC3D96 /* _______________UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1D293B20E4C75C00FC3D96 /* _______________UITests.swift */; };
+		3F1D294A20E4CF7100FC3D96 /* Снимок экрана 2018-06-28 в 11.09.48.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D294920E4CF7100FC3D96 /* Снимок экрана 2018-06-28 в 11.09.48.png */; };
+		3F1D294E20E4D03600FC3D96 /* Снимок экрана 2018-06-28 в 11.13.25.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D294D20E4D03600FC3D96 /* Снимок экрана 2018-06-28 в 11.13.25.png */; };
+		3F1D295020E4D47200FC3D96 /* icons8-солнце-filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D294F20E4D47200FC3D96 /* icons8-солнце-filled-50.png */; };
+		3F1D295420E4D47E00FC3D96 /* Снимок экрана 2018-06-28 в 11.25.10.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D295320E4D47E00FC3D96 /* Снимок экрана 2018-06-28 в 11.25.10.png */; };
+		3F1D295620E4D48000FC3D96 /* Снимок экрана 2018-06-28 в 11.24.19.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D295520E4D48000FC3D96 /* Снимок экрана 2018-06-28 в 11.24.19.png */; };
+		3F1D295820E4D48400FC3D96 /* Снимок экрана 2018-06-28 в 11.23.30.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D295720E4D48400FC3D96 /* Снимок экрана 2018-06-28 в 11.23.30.png */; };
+		3F1D295A20E4D51B00FC3D96 /* а 2018-06-28 в 11.34.22.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D295920E4D51A00FC3D96 /* а 2018-06-28 в 11.34.22.png */; };
+		3F1D295C20E4D52000FC3D96 /* ок экрана 2018-06-28 в 11.34.16.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D295B20E4D51F00FC3D96 /* ок экрана 2018-06-28 в 11.34.16.png */; };
+		3F1D295E20E4D87100FC3D96 /* icons8-монеты-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D295D20E4D87100FC3D96 /* icons8-монеты-48.png */; };
+		3F1D296020E4D87400FC3D96 /* icons8-коммуникации-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D295F20E4D87300FC3D96 /* icons8-коммуникации-50.png */; };
+		3F1D296220E4D99000FC3D96 /* icons8-словарь-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D296120E4D99000FC3D96 /* icons8-словарь-50.png */; };
+		3F1D296420E4DC6800FC3D96 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1D296320E4DC6800FC3D96 /* ViewController2.swift */; };
+		3F1D296620E4DFD500FC3D96 /* 00500003.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D296520E4DFD400FC3D96 /* 00500003.jpg */; };
+		3F1D296820E4E1F600FC3D96 /* Без названия (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D296720E4E1F500FC3D96 /* Без названия (1).jpeg */; };
+		3F1D296A20E4E25200FC3D96 /* 160130-ТриКруга-Поле-00.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D296920E4E25100FC3D96 /* 160130-ТриКруга-Поле-00.jpg */; };
+		3F1D296C20E4E51400FC3D96 /* 97b59216592af5ab0caed510cd0a1545.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D296B20E4E51400FC3D96 /* 97b59216592af5ab0caed510cd0a1545.jpg */; };
+		3F1D297020E4E87000FC3D96 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1D296F20E4E87000FC3D96 /* ViewController1.swift */; };
+		3F1D297220E4E9CF00FC3D96 /* Снимок экрана 2018-06-28 в 13.02.21.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D297120E4E9C400FC3D96 /* Снимок экрана 2018-06-28 в 13.02.21.png */; };
+		3F1D297620E4F26400FC3D96 /* icons8-неотмеченный-круг-filled-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D297520E4F26400FC3D96 /* icons8-неотмеченный-круг-filled-50.png */; };
+		3F1D297820E4F3E900FC3D96 /* Снимок экрана 2018-06-28 в 13.45.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D297720E4F3E800FC3D96 /* Снимок экрана 2018-06-28 в 13.45.24.png */; };
+		3F1D297A20E4F4A500FC3D96 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1D297920E4F4A500FC3D96 /* ViewController3.swift */; };
+		3F1D297C20E4F68400FC3D96 /* Снимок экрана 2018-06-28 в 13.56.52.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D297B20E4F68400FC3D96 /* Снимок экрана 2018-06-28 в 13.56.52.png */; };
+		3F1D297E20E4F7B500FC3D96 /* Снимок экрана 2018-06-28 в 14.01.37.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1D297D20E4F7B500FC3D96 /* Снимок экрана 2018-06-28 в 14.01.37.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +72,32 @@
 		3F1D293720E4C75C00FC3D96 /* сокровища гидрыUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "сокровища гидрыUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F1D293B20E4C75C00FC3D96 /* _______________UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_______________UITests.swift"; sourceTree = "<group>"; };
 		3F1D293D20E4C75C00FC3D96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F1D294920E4CF7100FC3D96 /* Снимок экрана 2018-06-28 в 11.09.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 11.09.48.png"; path = "../../Desktop/Снимок экрана 2018-06-28 в 11.09.48.png"; sourceTree = "<group>"; };
+		3F1D294B20E4CF7300FC3D96 /* Снимок экрана 2018-06-28 в 11.09.48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2018-06-28 в 11.09.48.png"; sourceTree = "<group>"; };
+		3F1D294D20E4D03600FC3D96 /* Снимок экрана 2018-06-28 в 11.13.25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 11.13.25.png"; path = "../../../../Desktop/Снимок экрана 2018-06-28 в 11.13.25.png"; sourceTree = "<group>"; };
+		3F1D294F20E4D47200FC3D96 /* icons8-солнце-filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-солнце-filled-50.png"; path = "../../../Desktop/icons8-солнце-filled-50.png"; sourceTree = "<group>"; };
+		3F1D295120E4D47800FC3D96 /* icons8-солнце-filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-солнце-filled-50.png"; sourceTree = "<group>"; };
+		3F1D295220E4D47A00FC3D96 /* icons8-солнце-filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-солнце-filled-50.png"; path = "../../../../Desktop/icons8-солнце-filled-50.png"; sourceTree = "<group>"; };
+		3F1D295320E4D47E00FC3D96 /* Снимок экрана 2018-06-28 в 11.25.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 11.25.10.png"; path = "../../../../Desktop/Снимок экрана 2018-06-28 в 11.25.10.png"; sourceTree = "<group>"; };
+		3F1D295520E4D48000FC3D96 /* Снимок экрана 2018-06-28 в 11.24.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 11.24.19.png"; path = "../../../../Desktop/Снимок экрана 2018-06-28 в 11.24.19.png"; sourceTree = "<group>"; };
+		3F1D295720E4D48400FC3D96 /* Снимок экрана 2018-06-28 в 11.23.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 11.23.30.png"; path = "../../../../Desktop/Снимок экрана 2018-06-28 в 11.23.30.png"; sourceTree = "<group>"; };
+		3F1D295920E4D51A00FC3D96 /* а 2018-06-28 в 11.34.22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "а 2018-06-28 в 11.34.22.png"; path = "../../../../Desktop/а 2018-06-28 в 11.34.22.png"; sourceTree = "<group>"; };
+		3F1D295B20E4D51F00FC3D96 /* ок экрана 2018-06-28 в 11.34.16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ок экрана 2018-06-28 в 11.34.16.png"; path = "../../../../Desktop/ок экрана 2018-06-28 в 11.34.16.png"; sourceTree = "<group>"; };
+		3F1D295D20E4D87100FC3D96 /* icons8-монеты-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-монеты-48.png"; path = "../../../../Desktop/icons8-монеты-48.png"; sourceTree = "<group>"; };
+		3F1D295F20E4D87300FC3D96 /* icons8-коммуникации-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-коммуникации-50.png"; path = "../../../../Desktop/icons8-коммуникации-50.png"; sourceTree = "<group>"; };
+		3F1D296120E4D99000FC3D96 /* icons8-словарь-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-словарь-50.png"; path = "../../../../Desktop/icons8-словарь-50.png"; sourceTree = "<group>"; };
+		3F1D296320E4DC6800FC3D96 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		3F1D296520E4DFD400FC3D96 /* 00500003.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 00500003.jpg; path = ../../../../Desktop/00500003.jpg; sourceTree = "<group>"; };
+		3F1D296720E4E1F500FC3D96 /* Без названия (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Без названия (1).jpeg"; path = "../../../../Desktop/Без названия (1).jpeg"; sourceTree = "<group>"; };
+		3F1D296920E4E25100FC3D96 /* 160130-ТриКруга-Поле-00.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "160130-ТриКруга-Поле-00.jpg"; path = "../../../../Desktop/160130-ТриКруга-Поле-00.jpg"; sourceTree = "<group>"; };
+		3F1D296B20E4E51400FC3D96 /* 97b59216592af5ab0caed510cd0a1545.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 97b59216592af5ab0caed510cd0a1545.jpg; path = ../../../../Desktop/97b59216592af5ab0caed510cd0a1545.jpg; sourceTree = "<group>"; };
+		3F1D296F20E4E87000FC3D96 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
+		3F1D297120E4E9C400FC3D96 /* Снимок экрана 2018-06-28 в 13.02.21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 13.02.21.png"; path = "../../../../Desktop/Снимок экрана 2018-06-28 в 13.02.21.png"; sourceTree = "<group>"; };
+		3F1D297520E4F26400FC3D96 /* icons8-неотмеченный-круг-filled-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-неотмеченный-круг-filled-50.png"; path = "../../../../Downloads/icons8-неотмеченный-круг-filled-50.png"; sourceTree = "<group>"; };
+		3F1D297720E4F3E800FC3D96 /* Снимок экрана 2018-06-28 в 13.45.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 13.45.24.png"; path = "../../../../Desktop/Снимок экрана 2018-06-28 в 13.45.24.png"; sourceTree = "<group>"; };
+		3F1D297920E4F4A500FC3D96 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		3F1D297B20E4F68400FC3D96 /* Снимок экрана 2018-06-28 в 13.56.52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 13.56.52.png"; path = "../../../../Desktop/Снимок экрана 2018-06-28 в 13.56.52.png"; sourceTree = "<group>"; };
+		3F1D297D20E4F7B500FC3D96 /* Снимок экрана 2018-06-28 в 14.01.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Снимок экрана 2018-06-28 в 14.01.37.png"; path = "../../../../Desktop/Снимок экрана 2018-06-28 в 14.01.37.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +128,8 @@
 		3F1D290D20E4C75800FC3D96 = {
 			isa = PBXGroup;
 			children = (
+				3F1D297920E4F4A500FC3D96 /* ViewController3.swift */,
+				3F1D294920E4CF7100FC3D96 /* Снимок экрана 2018-06-28 в 11.09.48.png */,
 				3F1D291820E4C75800FC3D96 /* сокровища гидры */,
 				3F1D292F20E4C75C00FC3D96 /* сокровища гидрыTests */,
 				3F1D293A20E4C75C00FC3D96 /* сокровища гидрыUITests */,
@@ -99,10 +150,14 @@
 		3F1D291820E4C75800FC3D96 /* сокровища гидры */ = {
 			isa = PBXGroup;
 			children = (
+				3F1D294F20E4D47200FC3D96 /* icons8-солнце-filled-50.png */,
+				3F1D294C20E4CF7800FC3D96 /* gidra */,
 				3F1D291920E4C75800FC3D96 /* AppDelegate.swift */,
 				3F1D291B20E4C75900FC3D96 /* art.scnassets */,
 				3F1D291D20E4C75900FC3D96 /* ViewController.swift */,
 				3F1D291F20E4C75900FC3D96 /* Main.storyboard */,
+				3F1D296320E4DC6800FC3D96 /* ViewController2.swift */,
+				3F1D296F20E4E87000FC3D96 /* ViewController1.swift */,
 				3F1D292220E4C75C00FC3D96 /* Assets.xcassets */,
 				3F1D292420E4C75C00FC3D96 /* LaunchScreen.storyboard */,
 				3F1D292720E4C75C00FC3D96 /* Info.plist */,
@@ -126,6 +181,34 @@
 				3F1D293D20E4C75C00FC3D96 /* Info.plist */,
 			);
 			path = "сокровища гидрыUITests";
+			sourceTree = "<group>";
+		};
+		3F1D294C20E4CF7800FC3D96 /* gidra */ = {
+			isa = PBXGroup;
+			children = (
+				3F1D297D20E4F7B500FC3D96 /* Снимок экрана 2018-06-28 в 14.01.37.png */,
+				3F1D297B20E4F68400FC3D96 /* Снимок экрана 2018-06-28 в 13.56.52.png */,
+				3F1D297720E4F3E800FC3D96 /* Снимок экрана 2018-06-28 в 13.45.24.png */,
+				3F1D297520E4F26400FC3D96 /* icons8-неотмеченный-круг-filled-50.png */,
+				3F1D297120E4E9C400FC3D96 /* Снимок экрана 2018-06-28 в 13.02.21.png */,
+				3F1D296B20E4E51400FC3D96 /* 97b59216592af5ab0caed510cd0a1545.jpg */,
+				3F1D296920E4E25100FC3D96 /* 160130-ТриКруга-Поле-00.jpg */,
+				3F1D296720E4E1F500FC3D96 /* Без названия (1).jpeg */,
+				3F1D296520E4DFD400FC3D96 /* 00500003.jpg */,
+				3F1D296120E4D99000FC3D96 /* icons8-словарь-50.png */,
+				3F1D295320E4D47E00FC3D96 /* Снимок экрана 2018-06-28 в 11.25.10.png */,
+				3F1D295920E4D51A00FC3D96 /* а 2018-06-28 в 11.34.22.png */,
+				3F1D295B20E4D51F00FC3D96 /* ок экрана 2018-06-28 в 11.34.16.png */,
+				3F1D295120E4D47800FC3D96 /* icons8-солнце-filled-50.png */,
+				3F1D295720E4D48400FC3D96 /* Снимок экрана 2018-06-28 в 11.23.30.png */,
+				3F1D295520E4D48000FC3D96 /* Снимок экрана 2018-06-28 в 11.24.19.png */,
+				3F1D295D20E4D87100FC3D96 /* icons8-монеты-48.png */,
+				3F1D295F20E4D87300FC3D96 /* icons8-коммуникации-50.png */,
+				3F1D294D20E4D03600FC3D96 /* Снимок экрана 2018-06-28 в 11.13.25.png */,
+				3F1D295220E4D47A00FC3D96 /* icons8-солнце-filled-50.png */,
+				3F1D294B20E4CF7300FC3D96 /* Снимок экрана 2018-06-28 в 11.09.48.png */,
+			);
+			path = gidra;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,10 +315,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F1D295020E4D47200FC3D96 /* icons8-солнце-filled-50.png in Resources */,
+				3F1D297C20E4F68400FC3D96 /* Снимок экрана 2018-06-28 в 13.56.52.png in Resources */,
 				3F1D291C20E4C75900FC3D96 /* art.scnassets in Resources */,
+				3F1D296020E4D87400FC3D96 /* icons8-коммуникации-50.png in Resources */,
+				3F1D296A20E4E25200FC3D96 /* 160130-ТриКруга-Поле-00.jpg in Resources */,
+				3F1D296620E4DFD500FC3D96 /* 00500003.jpg in Resources */,
+				3F1D295620E4D48000FC3D96 /* Снимок экрана 2018-06-28 в 11.24.19.png in Resources */,
+				3F1D295C20E4D52000FC3D96 /* ок экрана 2018-06-28 в 11.34.16.png in Resources */,
+				3F1D296C20E4E51400FC3D96 /* 97b59216592af5ab0caed510cd0a1545.jpg in Resources */,
+				3F1D297620E4F26400FC3D96 /* icons8-неотмеченный-круг-filled-50.png in Resources */,
+				3F1D297220E4E9CF00FC3D96 /* Снимок экрана 2018-06-28 в 13.02.21.png in Resources */,
+				3F1D294A20E4CF7100FC3D96 /* Снимок экрана 2018-06-28 в 11.09.48.png in Resources */,
+				3F1D295A20E4D51B00FC3D96 /* а 2018-06-28 в 11.34.22.png in Resources */,
+				3F1D296220E4D99000FC3D96 /* icons8-словарь-50.png in Resources */,
 				3F1D292620E4C75C00FC3D96 /* LaunchScreen.storyboard in Resources */,
 				3F1D292320E4C75C00FC3D96 /* Assets.xcassets in Resources */,
+				3F1D295420E4D47E00FC3D96 /* Снимок экрана 2018-06-28 в 11.25.10.png in Resources */,
+				3F1D297820E4F3E900FC3D96 /* Снимок экрана 2018-06-28 в 13.45.24.png in Resources */,
+				3F1D295820E4D48400FC3D96 /* Снимок экрана 2018-06-28 в 11.23.30.png in Resources */,
+				3F1D297E20E4F7B500FC3D96 /* Снимок экрана 2018-06-28 в 14.01.37.png in Resources */,
+				3F1D294E20E4D03600FC3D96 /* Снимок экрана 2018-06-28 в 11.13.25.png in Resources */,
 				3F1D292120E4C75900FC3D96 /* Main.storyboard in Resources */,
+				3F1D295E20E4D87100FC3D96 /* icons8-монеты-48.png in Resources */,
+				3F1D296820E4E1F600FC3D96 /* Без названия (1).jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,8 +363,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F1D297A20E4F4A500FC3D96 /* ViewController3.swift in Sources */,
+				3F1D297020E4E87000FC3D96 /* ViewController1.swift in Sources */,
 				3F1D291E20E4C75900FC3D96 /* ViewController.swift in Sources */,
 				3F1D291A20E4C75800FC3D96 /* AppDelegate.swift in Sources */,
+				3F1D296420E4DC6800FC3D96 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
